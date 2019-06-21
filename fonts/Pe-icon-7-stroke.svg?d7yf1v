@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="cs">    
+  <head>        
+    <meta charset="utf-8">        
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">        
+    <meta name="viewport" content="width=device-width, initial-scale=1">        
+    <title>Brno Ingress Enlightened
+    </title>        
+    <!-- Google Font -->        
+    <link href='https://fonts.googleapis.com/css?family=Raleway:500,600,700,800,900,400,300' rel='stylesheet' type='text/css'>        
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,900,300italic,400italic' rel='stylesheet' type='text/css'>        
+    <!-- Bootstrap -->        
+    <link href="css/bootstrap.min.css" rel="stylesheet">        
+    <!-- Pixeden Icon Font -->        
+    <link rel="stylesheet" href="css/Pe-icon-7-stroke.css">        
+    <!-- Favicon -->        
+    <link rel="icon" href="images/logo.png">        
+    <!-- Style -->        
+    <link href="css/style.css" rel="stylesheet">        
+    <link href="css/animate.css" rel="stylesheet">        
+    <!-- Responsive CSS -->        
+    <link href="css/responsive.css" rel="stylesheet">        
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->        
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->        
+    <!--[if lt IE 9]>
+    	  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    	  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    	<![endif]-->    
+  </head>    
+  <body>        
+    <!-- =========================
+         START HEADER SECTION
+    ============================== -->        
+    <section class="header parallax home-parallax page" id="HOME">             <h2></h2>            
+      <div class="section_overlay">                
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">                    
+          <div class="container">                        
+            <!-- Brand and toggle get grouped for better mobile display -->                        
+            <div class="navbar-header">                            
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">                                 
+                <span class="sr-only">Toggle navigation
+                </span>                                 
+                <span class="icon-bar">
+                </span>                                 
+                <span class="icon-bar">
+                </span>                                 
+                <span class="icon-bar">
+                </span>                            
+              </button>                        
+            </div>                        
+            <!-- Collect the nav links, forms, and other content for toggling -->                        
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">                            
+              <ul class="nav navbar-nav navbar-right">                                
+                <!-- NAV -->                                
+                <li>
+                <a href="#HOME">HOME</a>                                  
+                </li>                                
+                <li>
+                <a href="#INGRESS">Co je to Ingress?</a>                                  
+                </li>                                
+                <li>
+                <a href="#KOMUNITA">Komunita</a>                                
+                </li>                                
+                <li>
+                <a href="#ZAPOJSE">Zapoj se!</a>                                  
+                </li>                            
+              </ul>                        
+            </div>                        
+            <!-- /.navbar-collapse -->                    
+          </div>                    
+          <!-- /.container- -->                
+        </nav>                
+        <div class="container home-container">                    
+          <div class="row">                        
+            <div class="col-md-12">                            
+              <div class="logo text-center">                                
+                <!-- LOGO -->                                
+                <img src="images/logo.png" alt="">                            
+              </div>                        
+            </div>                    
+          </div>                    
+          <div class="row">                        
+            <div class="col-md-8 col-sm-8">                            
+              <div class="home_text">                                
+                <!-- TITLE AND DESC -->                                 <h1>Brno Ingress Enlightened</h1>                                
+                <p>Tato stránka ti pomůže se vstupem do zelené komunity v Brně.
+                </p>                                
+                <div class="download-btn">                                    
+                  <!-- BUTTON -->                                     
+                  <a class="btn home-btn wow fadeInLeft" href="#INGRESS">Co je to Ingress?</a>                                     
+                  <a class="tuor btn wow fadeInRight" href="#ZAPOJSE">Vstup do komunity</a>                                            
+                </div>                            
+              </div>                        
+            </div>                    
+          </div>                
+        </div>            
+      </div>        
+    </section>        
+    <!-- END HEADER SECTION -->        
+    <!-- =========================
+         START ABOUT US SECTION
+    ============================== -->        
+    <section class="about page" id="INGRESS">            
+      <div class="video_area">                
+        <div class="container">                    
+          <div class="row">                        
+            <div class="col-md-6 wow fadeInLeftBig">                            
+              <!-- VIDEO LEFT TITLE -->                            
+              <div class="video_title">                                 <h2>Co je to Ingress?</h2>                                
+                <p>Ingress je mobilní hra využívající rozšířenou realitu.                                     
+                  <br>Hráči jsou rozděleni do dvou frakcí, které mezi sebou soupeří o počet obsazených portálů a vytvářejí pole jejich propojováním. Cílem je si hru užít.
+                </p>                            
+              </div>                            
+              <div class="video-button">                                
+                <!-- BUTTON -->                                
+                <a target="_blank" href='https://play.google.com/store/apps/details?id=com.nianticproject.ingress&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>                                    
+                  <img height="90" src='https://play.google.com/intl/en_us/badges/images/generic/cs_badge_web_generic.png' />                                </a>                                
+                <a target="_blank" href='https://itunes.apple.com/en/app/ingress/id576505181'>                                    
+                  <img height="60" src="images/Download_on_the_App_Store_Badge_CZ_135x40.png" />                                </a>                            
+              </div>                        
+            </div>                        
+            <div class="col-md-6 wow fadeInRightBig">                            
+              <!-- VIDEO -->                            
+              <div class="video">                                
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/92rYjlxqypM" frameborder="0" allowfullscreen>
+                </iframe>                            
+              </div>                        
+            </div>                    
+          </div>                
+        </div>            
+      </div>        
+    </section>        
+    <!-- End About Us -->        
+    <!-- =========================
+         START FEATURES
+    ============================== -->        
+    <section id="KOMUNITA" class="features page">            
+      <div class="inner_about_area">                
+        <div class="container">                    
+          <div class="row">                        
+            <div class="col-md-6">                            
+              <div class="about_phone wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">                                
+                <!-- PHONE -->                                
+                <img src="images/about_iphone.png" alt="">                            
+              </div>                        
+            </div>                        
+            <div class="col-md-6  wow fadeInRight" data-wow-duration="1s" data-wow-delay=".5s">                            
+              <!-- TITLE -->                            
+              <div class="inner_about_title">                                 <h2>Brněská Enlightened komunita</h2>                                
+                <p>Tato stránka má pomoci hráčům zapojit se do Brněnské komunity. Pokud stále váháš, jestli ano, nebo ne, máme pro tebe několik důvodů pro společnou hru s komunitou.
+                </p>                            
+              </div>                            
+              <div class="inner_about_desc">                                
+                <!-- SINGLE DESC -->                                
+                <div class="single_about_area fadeInUp wow" data-wow-duration=".5s" data-wow-delay="1s">                                    
+                  <!-- ICON -->                                    
+                  <div>
+                    <i class="pe-7s-timer"></i>                                    
+                  </div>                                    
+                  <!-- HEADING DESCRIPTION -->                                     <h3>Rychlejší postup</h3>                                    
+                  <p>Zkušenější hráči ti rádi pomohou s postupem ve hře a vysvětlí složitější herní postupy. Díky těmto ostříleným členům komunity vše pochopíš rychleji.
+                  </p>                                
+                </div>                                
+                <!-- END SINGLE DESC -->                                
+                <!-- SINGLE DESC -->                                
+                <div class="single_about_area fadeInUp wow" data-wow-duration=".5s" data-wow-delay="1.5s">                                    
+                  <!-- ICON -->                                    
+                  <div>
+                    <i class="pe-7s-target"></i>                                    
+                  </div>                                    
+                  <!-- HEADING DESCRIPTION -->                                     <h3>Týmová hra</h3>                                    
+                  <p>Ingress je mnohem zábavnější ve více hráčích.                                          
+                    <br>Komunita je tu od toho, aby hráče navzájem spojovala.
+                  </p>                                
+                </div>                                
+                <!-- END SINGLE DESC -->                                
+                <!-- SINGLE DESC -->                                
+                <div class="single_about_area fadeInUp wow" data-wow-duration=".5s" data-wow-delay="2s">                                    
+                  <!-- ICON -->                                    
+                  <div>
+                    <i class="pe-7s-stopwatch"></i>                                    
+                  </div>                                    
+                  <!-- HEADING DESCRIPTION -->                                     <h3>Nejen hra</h3>                                    
+                  <p>Hraním Ingressu získáš nové přátele.                                         
+                    <br>Společně chodíme na pivo, jezdíme na výlety a pořádáme mnoho akcí jak herních, tak se hrou nesouvisejících.
+                  </p>                                
+                </div>                                
+                <!-- END SINGLE DESC -->                            
+              </div>                        
+            </div>                    
+          </div>                
+        </div>            
+      </div>        
+    </section>        
+    <!-- END FEATURES SECTION -->        
+    <!-- =========================
+         Start APPS SCREEN SECTION
+    ============================== -->        
+    <section class="apps_screen page" id="ZAPOJSE">            
+      <div class="section_overlay">                
+        <div class="container">                    
+          <div class="row">                        
+            <div class="col-md-10 col-md-offset-1">                            
+              <!-- Start Subscribe Section Title -->                            
+              <div class="section_title">                                 <h2>ZAPOJ SE</h2>                                
+                <p>Pro samotnou organizaci používáme komunikátor Telegram.                                     
+                  <br>Stačí kliknou na tlačítko, vytvořit si účet, pokud už nemáš a připojit se.                                 
+                </p>
+                <div>                                
+<script type="text/javascript">(function() {var script=document.createElement("script");script.type="text/javascript";script.async =true;script.src="https://telegram.im/widget-button/index.php?id=@enl_brno";document.getElementsByTagName("head")[0].appendChild(script);})();</script>
+                <a href="https://telegram.im/@enl_brno" target="_blank" class="telegramim_button telegramim_shadow telegramim_pulse" style="font-size:17px;width:254px;background:#01be01;box-shadow:1px 1px 5px #01be01;color:#FFFFFF;border-radius:100px;margin:auto;" title=""><i></i> Připojit se Telegramem</a>
+                </div>                                    
+                <!-- End Subscribe Section Title -->                                    
+                <!-- IF BIE 1Y
+                                            <div class="section_title">
+                                                <p>Tvůj účet už byl ověřený a jsi členem komunity.
+                                                    <br>Komunitu otevřeš kliknutím na tlačítko:</p>
+                                            </div>
+                                            <div class="video-button">
+                                                 <a class="btn btn-primary btn-video" href="https://plus.google.com/communities/113427426922953684565" role="button">Vstoupit do komunity</a>
+                                            </div>
+                                            <!-- END IF BIE 1Y -->                                    
+                <!-- IF BIE 0Y 
+                                            <div class="section_title">
+                                                <p>Do komunity jsi už pozvaný. Stačí když pozvánku příjmeš.
+                                                    <br>Komunitu otevřeš kliknutím na tlačítko:</p>
+                                            </div>
+                                            <div class="video-button">
+                                                 <a class="btn btn-primary btn-video" href="https://plus.google.com/communities/113427426922953684565" role="button">Vstoupit do komunity</a>
+                                            </div>
+                                            <!-- IF BIE 0Y 
+                                                <p>Požádej si o vstup do uzavřené Google+ komunity: <a href="https://plus.google.com/communities/113427426922953684565" target="_blank">Google+ komunita Brno Ingress Enlightened</a>.
+                                                    <br>Stačí kliknout na tlačítko "Požádat o přijetí".</p>
+                                                <p>Ovtevři Intel mapu tímto odkazem: <a href="https://www.ingress.com/intel?ll=49.1922053,16.6086958&z=12" target="_blank">Ingress Intel nad Brnem</a>.
+                                                    <br>Odkaz ti otevře mapu portálů nad Brnem. Mapou nijak neposunuj.</p>
+                                                <p>V levém dolním rohu překlikni okno chatu na záložku "Faction".</p>
+                                                <img class="guide" src="images/fractioncomm.png" alt="">
+                                                <p>Zkopírůj celý následující text do pole "start broadcasting here":</p>
+                                                <p class="guide">Můj ověřovací kód pro vstup do Brněnské Enlightened G+ komunity http://enl-brno.cz je: [vygenerovany kod]</p>
+                                                <p>Text odešleš kliknutím na "Transmit".</p>
+                                                <img class="guide" src="images/chatcomm.png" alt="">
+                                                <p>Do 48 hodin (z pravidla mnohem dříve) tě do komunity přidáme.</p>
+                                            <!--END IF BIE 0Y -->                            
+              </div>                        
+            </div>                    
+          </div>                
+        </div>            
+      </div>        
+    </section>        
+    <!-- ENS APPS SCREEN -->        
+    <!-- =========================
+         FOOTER 
+    ============================== -->        
+    <section class="copyright">             <h2></h2>            
+      <div class="container">                
+        <div class="row">                    
+          <div class="col-md-6">                        
+            <div class="copy_right_text">                            
+              <!-- COPYRIGHT TEXT -->                            
+              <p>&copy; 2016 Pro Brněnské Enlightened.                                 
+                <br>Ingress fanouškovská stránka.                                 
+                <br>Nejsme oficiálně spojeni se hrou 
+                <a href="https://www.ingress.com/" target="_blank">Ingress</a> nebo 
+                <a href="http://www.nianticlabs.com/" target="_blank">Niantic Labs</a>.                             
+              </p>                        
+            </div>                    
+          </div>                
+        </div>            
+      </div>        
+    </section>        
+    <!-- END FOOTER -->        
+    <!-- =========================
+         SCRIPTS 
+    ==============================       -->        
+<script src="js/jquery.min.js"></script>        
+<script src="js/bootstrap.min.js"></script>        
+<script src="js/owl.carousel.js"></script>        
+<script src="js/jquery.fitvids.js"></script>        
+<script src="js/smoothscroll.js"></script>        
+<script src="js/jquery.parallax-1.1.3.js"></script>        
+<script src="js/jquery.prettyPhoto.js"></script>        
+<script src="js/jquery.ajaxchimp.min.js"></script>        
+<script src="js/jquery.ajaxchimp.langs.js"></script>        
+<script src="js/wow.min.js"></script>        
+<script src="js/waypoints.min.js"></script>        
+<script src="js/jquery.counterup.min.js"></script>        
+<script src="js/script.js"></script>    
+  </body>
+</html>
